@@ -1,0 +1,9 @@
+stage_id,stage
+103,initial_communication_success
+105,discussion_success
+106,offer_sent
+107,quotation_recieved
+108,deal_won
+104,approach_success
+102,leads_qualification
+101,leads_registered
